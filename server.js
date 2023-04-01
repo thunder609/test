@@ -1,9 +1,9 @@
-const jsonServer = require('json-server')
+import { create, router as _router, defaults } from 'json-server'
 
-const server = jsonServer.create()
+const server = create()
 
-const router = jsonServer.router('data.json')
-const middlewares = jsonServer.defaults()
+const router = _router('data.json')
+const middlewares = defaults()
  
 server.use(middlewares)
 server.use(router)
