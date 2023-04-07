@@ -1,26 +1,26 @@
 {"articulo":[
     {
       "id": 1,
-      "categorie": "deporte",
-      "name": "Lentes",
-      "descrip": "lentes",
-      "image": "/src/app/imagens/consola1.png",
+      "categorie": "Cumpleaños",
+      "name": "Arreglo Cumpeaños Boom",
+      "descrip": "Arreglo con detalles d globos",
+      "image": "https://ucarecdn.com/b92bcbac-afad-4727-86d2-5d683d418de9/cumpeaos5.jpg",
       "precio": 4000
     },
     {
       "id": 2,
-      "categorie": "deporte",
-      "name": "ligas",
+      "categorie": "Cumpleaños",
+      "name": "Arreglo cumpleaño boom",
       "descrip": "lodjdjdjjdjdjdjdjjdcnjdjdjdjdjjdjdjdjd",
-      "image": "https://ucarecdn.com/4d0592ff-a0e6-4fb4-be1d-f5d921f30391/appleicon114x114removebgpreview.png",
+      "image": "https://ucarecdn.com/3dc5041e-1a18-4b12-8a16-9b4ceab430f9/arreglodecumpleaos.jpg",
       "precio": 14000
     },
     {
       "id": 3,
-      "categorie": "deporte",
+      "categorie": "Cumpleaños",
       "name": "Balon de futbol",
-      "descrip": "balon de futbol con aire de hidrogeno",
-      "image": "imagens/balon.jpg",
+      "descrip": "arreglo Cumpleaños",
+      "image": "https://ucarecdn.com/a5c6c676-7ebe-4f05-b45b-49ccdab42425/cumpleaos.jpg",
       "precio": 24000
     },
     {
