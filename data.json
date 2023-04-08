@@ -33,34 +33,34 @@
     },
     {
       "id": 5,
-      "categorie": "deporte",
+      "categorie": "Dia del Amor",
       "name": "Zapatos deportivos",
       "descrip": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit fugiat porro libero id enim ipsum! Reiciendis, veniam perspiciatis! Odio ut laborum vero veniam id magni perspiciatis eligendi doloremque ea repudiandae?",
-      "image": "imagens/zapatos.jpg",
+      "image": "https://ucarecdn.com/1268554f-5015-4c0f-9b81-8112609b07ee/diadelamor.jpg",
       "precio": 4000
     },
     {
       "id": 7,
-      "categorie": "juguetes",
+      "categorie": "Dia del Amor",
       "name": "Vaquero",
       "descrip": "En Busca de las 7 Eferas del Gragon",
-      "image": "imagens/j1.jpeg",
+      "image": "https://ucarecdn.com/b6e87aed-9968-4bed-8021-444798b1140a/DiadelAmor2.jpg",
       "precio": 44000
     },
     {
       "id": 8,
-      "categorie": "juguetes",
+      "categorie": "Dia del Amor",
       "name": "Buzz Lightyear",
       "descrip": "El gran torneo de las artes marciales",
-      "image": "imagens/j2.jpeg",
+      "image": "https://ucarecdn.com/b6e87aed-9968-4bed-8021-444798b1140a/DiadelAmor2.jpg",
       "precio": 50000
     },
     {
       "id": 9,
-      "categorie": "juguetes",
+      "categorie": "Dia el Amor",
       "name": "Traform optium",
       "descrip": "La Torre Eiffel3​ (Tour Eiffel, en francés), inicialmente llamada Tour de 300 mètres (Torre de 300 metros) es una estructura de hierro pudelado diseñada inicialmente por los ingenieros civiles Maurice Koechlin y Émile Nouguier y construida, tras el rediseño estético de Stephen Sauvestre, por el ingeniero civil francés Alexandre Gustave Eiffel y sus colaboradores para la Exposición Universal de 1889 en París",
-      "image": "imagens/j3.jpeg",
+      "image": "https://ucarecdn.com/30829f67-d621-461d-a71d-01450ec0dffc/diadlamor4.jpg",
       "precio": 30000
     },
     {
