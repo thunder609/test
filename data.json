@@ -34,14 +34,14 @@
     {
       "id": 5,
       "categorie": "Dia del Amor",
-      "name": "Zapatos deportivos",
+      "name": "Dia del Amor boom1",
       "descrip": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit fugiat porro libero id enim ipsum! Reiciendis, veniam perspiciatis! Odio ut laborum vero veniam id magni perspiciatis eligendi doloremque ea repudiandae?",
       "image": "https://ucarecdn.com/1268554f-5015-4c0f-9b81-8112609b07ee/diadelamor.jpg",
       "precio": 4000
     },
     {
       "id": 7,
-      "categorie": "Dia del Amor",
+      "categorie": "Dia del Amor boom2",
       "name": "Vaquero",
       "descrip": "En Busca de las 7 Eferas del Gragon",
       "image": "https://ucarecdn.com/b6e87aed-9968-4bed-8021-444798b1140a/DiadelAmor2.jpg",
@@ -50,7 +50,7 @@
     {
       "id": 8,
       "categorie": "Dia del Amor",
-      "name": "Buzz Lightyear",
+      "name": "Dia del Amor boom3",
       "descrip": "El gran torneo de las artes marciales",
       "image": "https://ucarecdn.com/b6e87aed-9968-4bed-8021-444798b1140a/DiadelAmor2.jpg",
       "precio": 50000
@@ -58,7 +58,7 @@
     {
       "id": 9,
       "categorie": "Dia el Amor",
-      "name": "Traform optium",
+      "name": "Dia del Amor boom4",
       "descrip": "La Torre Eiffel3​ (Tour Eiffel, en francés), inicialmente llamada Tour de 300 mètres (Torre de 300 metros) es una estructura de hierro pudelado diseñada inicialmente por los ingenieros civiles Maurice Koechlin y Émile Nouguier y construida, tras el rediseño estético de Stephen Sauvestre, por el ingeniero civil francés Alexandre Gustave Eiffel y sus colaboradores para la Exposición Universal de 1889 en París",
       "image": "https://ucarecdn.com/30829f67-d621-461d-a71d-01450ec0dffc/diadlamor4.jpg",
       "precio": 30000
@@ -66,26 +66,58 @@
     {
       "id": 10,
       "idc": 10,
-      "categorie": "juguetes",
-      "name": "GokuSa Super Saiyajin Azul",
+      "categorie": "babychaguer",
+      "name": "babychaguer",
       "descrip": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit fugiat porro libero id enim ipsum! Reiciendis, veniam perspiciatis! Odio ut laborum vero veniam id magni perspiciatis eligendi doloremque ea repudiandae?",
-      "image": "imagens/j4.jpeg",
+      "image": "https://ucarecdn.com/c2b5c863-bef6-4b70-868b-33383df68272/baychaguer.jpg",
       "precio": 34000
     },
     {
       "id": 11,
-      "categorie": "juguetes",
-      "name": "Traform Turbo",
+      "categorie": "babychaguer",
+      "name": "babychaguer",
       "descrip": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit fugiat porro libero id enim ipsum! Reiciendis, veniam perspiciatis! Odio ut laborum vero veniam id magni perspiciatis eligendi doloremque ea repudiandae?",
-      "image": "imagens/j5.jpeg",
+      "image": "https://ucarecdn.com/53cc4b00-adbe-4e1c-80f9-49e712397b0e/babychager.jpg",
       "precio": 45000
     },
     {
       "id": 12,
-      "categorie": "juguetes",
-      "name": "Bumblebeee",
+      "categorie": "Navidad",
+      "name": "Arbol de navidad ",
       "descrip": "El ejercito de la patrulla roja Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit fugiat porro libero id enim ipsum! Reiciendis, veniam perspiciatis! Odio ut laborum vero veniam id magni perspiciatis eligendi doloremque ea repudiandae?",
-      "image": "imagens/j6.jpeg",
+      "image": "https://ucarecdn.com/ebbf7edf-6828-4beb-94af-059b79e004b9/navidad.jpg",
+      "precio": 43000
+    },
+    {
+      "id": 13,
+      "categorie": "Año Nuevo",
+      "name": "Año Nuevo",
+      "descrip": "El ejercito de la patrulla roja Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit fugiat porro libero id enim ipsum! Reiciendis, veniam perspiciatis! Odio ut laborum vero veniam id magni perspiciatis eligendi doloremque ea repudiandae?",
+      "image": "https://ucarecdn.com/8495487a-5fff-4dc5-9c15-8d45655a6e70/felizao.jpg",
+      "precio": 43000
+    },
+    {
+      "id": 15,
+      "categorie": "Semaforo",
+      "name": "Semaforo",
+      "descrip": "El ejercito de la patrulla roja Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit fugiat porro libero id enim ipsum! Reiciendis, veniam perspiciatis! Odio ut laborum vero veniam id magni perspiciatis eligendi doloremque ea repudiandae?",
+      "image": "https://ucarecdn.com/c443da59-45d2-482a-bf3e-530128a075eb/semaforo.jpg",
+      "precio": 43000
+    },
+    {
+      "id": 16,
+      "categorie": "Graduacion",
+      "name": "Areglo de Gaduacion",
+      "descrip": "El ejercito de la patrulla roja Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit fugiat porro libero id enim ipsum! Reiciendis, veniam perspiciatis! Odio ut laborum vero veniam id magni perspiciatis eligendi doloremque ea repudiandae?",
+      "image": "https://ucarecdn.com/7d0b61d5-7aa8-402b-ae5a-7a219ebb6829/graduacionfachada.jpg",
+      "precio": 43000
+    },
+    {
+      "id": 17,
+      "categorie": "Graduacion",
+      "name": "Graduacion",
+      "descrip": "El ejercito de la patrulla roja Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit fugiat porro libero id enim ipsum! Reiciendis, veniam perspiciatis! Odio ut laborum vero veniam id magni perspiciatis eligendi doloremque ea repudiandae?",
+      "image": "https://ucarecdn.com/9a40d4e2-8d16-47f6-9609-9ef7a82f99cd/graduacion.jpg",
       "precio": 43000
     }
 ]
