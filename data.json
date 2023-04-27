@@ -25,7 +25,7 @@
     },
     {
       "id": 4,
-      "idc": 4,
+      "categorie": "Cumpleaños",
       "name": "Raqueta ",
       "descrip": "           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit fugiat porro libero id enim ipsum! Reiciendis, veniam perspiciatis! Odio ut laborum vero veniam id magni perspiciatis eligendi doloremque ea repudiandae?",
       "image": "imagens/raqueta.jpg",
@@ -107,7 +107,7 @@
     {
       "id": 16,
       "categorie": "Graduacion",
-      "name": "Areglo de Gaduacion",
+      "name": "Arreglo de Gaduacion",
       "descrip": "El ejercito de la patrulla roja Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit fugiat porro libero id enim ipsum! Reiciendis, veniam perspiciatis! Odio ut laborum vero veniam id magni perspiciatis eligendi doloremque ea repudiandae?",
       "image": "https://ucarecdn.com/7d0b61d5-7aa8-402b-ae5a-7a219ebb6829/graduacionfachada.jpg",
       "precio": 43000
