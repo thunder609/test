@@ -66,16 +66,16 @@
     {
       "id": 10,
       "idc": 10,
-      "categorie": "baby shower",
-      "name": "babychaguer",
+      "categorie": "Baby Shower",
+      "name": "Baby Shower boom1",
       "descrip": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit fugiat porro libero id enim ipsum! Reiciendis, veniam perspiciatis! Odio ut laborum vero veniam id magni perspiciatis eligendi doloremque ea repudiandae?",
       "image": "https://ucarecdn.com/c2b5c863-bef6-4b70-868b-33383df68272/baychaguer.jpg",
       "precio": 34000
     },
     {
       "id": 11,
-      "categorie": "baby shower",
-      "name": "babychaguer",
+      "categorie": "Baby Shower",
+      "name": "Baby Shower boom2",
       "descrip": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit fugiat porro libero id enim ipsum! Reiciendis, veniam perspiciatis! Odio ut laborum vero veniam id magni perspiciatis eligendi doloremque ea repudiandae?",
       "image": "https://ucarecdn.com/53cc4b00-adbe-4e1c-80f9-49e712397b0e/babychager.jpg",
       "precio": 45000
