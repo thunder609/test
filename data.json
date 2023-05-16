@@ -135,6 +135,27 @@
       "descrip": "El ejercito de la patrulla roja Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit fugiat porro libero id enim ipsum! Reiciendis, veniam perspiciatis! Odio ut laborum vero veniam id magn perspiciatis eligendi doloremque ea repudiandae?",
       "image": "https://ucarecdn.com/939b8151-c527-48ec-90b3-1ed9347162c2/arreglocumpleaosmin.jpg",
       "precio": 43000
+    },
+{
+      "id": 19,
+      "categorie": "Cumpleaños",
+      "name": "Arreglo de Cumpleaño",
+      "descrip": "El ejercito de la patrulla roja Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit fugiat porro libero id enim ipsum! Reiciendis, veniam perspiciatis! Odio ut laborum vero veniam id magn perspiciatis eligendi doloremque ea repudiandae?",
+      "image": "https://ucarecdn.com/50518cce-53f3-417a-8bc2-bf445068c50f/cumpleaoAmin.jpg"
+    },
+{
+      "id": 20,
+      "categorie": "Cumpleaños",
+      "name": "Arreglo de Cumpleaño",
+      "descrip": "El ejercito de la patrulla roja Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit fugiat porro libero id enim ipsum! Reiciendis, veniam perspiciatis! Odio ut laborum vero veniam id magn perspiciatis eligendi doloremque ea repudiandae?",
+      "image": "https://ucarecdn.com/fe393e58-a5b4-40ea-a1f3-08d7cacf2bbe/cumpleaosmin.jpg"
+    },
+{
+      "id": 21,
+      "categorie": "Cumpleaños",
+      "name": "Arreglo de Cumpleaño",
+      "descrip": "El ejercito de la patrulla roja Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit fugiat porro libero id enim ipsum! Reiciendis, veniam perspiciatis! Odio ut laborum vero veniam id magn perspiciatis eligendi doloremque ea repudiandae?",
+      "image": "https://ucarecdn.com/ab5c5964-c90c-4d4c-ab07-d775cf18eddd/cumpleaoss6min.jpg"
     }
 ]
 }
