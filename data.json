@@ -127,6 +127,21 @@
       "descrip": "El ejercito de la patrulla roja Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit fugiat porro libero id enim ipsum! Reiciendis, veniam perspiciatis! Odio ut laborum vero veniam id magn perspiciatis eligendi doloremque ea repudiandae?",
       "image": "https://ucarecdn.com/86f6d700-8e9a-4482-b168-4bd364a20091/graduacionfachadamin.jpg",
       "precio": 43000
+    },
+    {
+      "id": 17,
+      "categorie": "Cumpleaños",
+      "name": "Graduacion",
+      "descrip": "El ejercito de la patrulla roja Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit fugiat porro libero id enim ipsum! Reiciendis, veniam perspiciatis! Odio ut laborum vero veniam id magn perspiciatis eligendi doloremque ea repudiandae?",
+      "image": "    {
+      "id": 17,
+      "categorie": "Cumplaños",
+      "name": "Graduacion",
+      "descrip": "El ejercito de la patrulla roja Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit fugiat porro libero id enim ipsum! Reiciendis, veniam perspiciatis! Odio ut laborum vero veniam id magn perspiciatis eligendi doloremque ea repudiandae?",
+      "image": "https://ucarecdn.com/4ceb6ac1-062c-43aa-bd52-ad75d001fa4a/cumpleaoAmin.jpg",
+      "precio": 43000
+    }",
+      "precio": 43000
     }
 ]
 }
