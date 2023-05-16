@@ -1,12 +1,5 @@
 {"articulo":[
- {
-      "id": 0,
-      "categorie": "Cumpleaños",
-      "name": "Arreglo Cumpeaños Boom",
-      "descrip": "Arreglo con detalles d globos",
-      "image": "https://ucarecdn.com/88c667a9-36db-456f-be3c-2c6d1ba1b636/arreglodecumpleaosmin.jpg",
-      "precio": 4000
-    },
+
     {
       "id": 1,
       "categorie": "Cumpleaños",
